@@ -1,4 +1,3 @@
-[![MasterHead](https://c.tenor.com/RN_Qtdf11N0AAAAd/tenor.gif)](https://rishavchanda.io)
 <h1 align="center">Hello 👋, I'm Thanapat Jonglertthiti</h1>
 <h3 align="center">I'm interested in software-developing, cybersecurity and space !</h3>
 
