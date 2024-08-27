@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Thanapat Jonglertthiti</h1>
 <h3 align="center">I'm interested in software-developing, cybersecurity and space !</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/space-gif-22975792">
+<img align="right" alt="space" width="400" src="https://c.tenor.com/RN_Qtdf11N0AAAAd/tenor.gif">
 
 - 🌱 I’m currently learning **Computer Science, Software Devekoping, Cybersecurity especially in penetration testing ande ethical hacking.**
 
@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/thanajong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thanajong" height="30" width="40" /></a>
-<a href="https://fb.com/thanapat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thanapat" height="30" width="40" /></a>
+<a href="https://fb.com/thanapat.jonglertthiti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thanapat" height="30" width="40" /></a>
 <a href="https://instagram.com/vwiizz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vwiizz" height="30" width="40" /></a>
 <a href="https://medium.com/@thanajong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@thanajong" height="30" width="40" /></a>
 </p>
