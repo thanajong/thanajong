@@ -1,7 +1,6 @@
-[![MasterHead](https://linkedinheaders.com/wp-content/uploads/2018/02/galaxy-header.jpg)](https://rishavchanda.io)
+[![MasterHead](https://c.tenor.com/RN_Qtdf11N0AAAAd/tenor.gif")](https://rishavchanda.io)
 <h1 align="center">Hello 👋, I'm Thanapat Jonglertthiti</h1>
 <h3 align="center">I'm interested in software-developing, cybersecurity and space !</h3>
-<img align="right" alt="space" width="400" src="https://c.tenor.com/RN_Qtdf11N0AAAAd/tenor.gif">
 
 - 🌱 I’m currently learning **Computer Science, Software Devekoping, Cybersecurity especially in penetration testing ande ethical hacking.**
 
