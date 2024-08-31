@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Thanapat Jonglertthiti</h1>
 <h3 align="center">I'm interested in software-developing, cybersecurity and space !</h3>
 
-- 🌱 I’m currently learning **Computer Science, Software Devekoping, Cybersecurity especially in penetration testing ande ethical hacking.**
+- 🌱 I’m currently learning **Software Developing (Web-app dev/design), Cybersecurity (Pen-test/hacking) and Advancement for Space Technology and Exploring.**
 
 - 📝 I regularly write articles on [https://v13vv.gitbook.io/blog](https://v13vv.gitbook.io/blog)
 
