@@ -1,11 +1,11 @@
 <h1 align="center">Hello 👋, I'm Thanapat Jonglertthiti</h1>
 <h3 align="center">I'm interested in software-developing, cybersecurity and space !</h3>
 
-- 🌱 I’m currently learning **Software Developing (Web-app dev/design), Cybersecurity (Pen-test/hacking) and Advancement for Space Technology and Exploring.**
+- 🌱 I’m currently learning **Software Developing (Web-app dev/design), Cyber Security (Analysis) and Space Technologies.**
 
-- 📝 I regularly write articles on [https://v13vv.gitbook.io/blog](https://v13vv.gitbook.io/blog)
+- 📝 I write a blog at [https://v13vv.gitbook.io/blog](https://v13vv.gitbook.io/blog)
 
-- 📫 How to reach me **thanajong@outlook.com**
+- 📫 Reach me **thanajong@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
